@@ -25,17 +25,17 @@ Jiangong Liu is an ecosystem ecologist studying how terrestrial ecosystems inter
 ## Career
 
 **Assistant Professor (from May 2025)**  
-Carbon Neutrality and Climate Change Thrust, 
+[Carbon Neutrality and Climate Change Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/carbon-neutrality-and-climate-change),  
 The Hong Kong University of Science and Technology (Guangzhou)
 
 **Ph.D. in Physical Geography**  
-The Chinese University of Hong Kong, 2020
+The Chinese University of Hong Kong (advised by [Prof. Derrick Y.F. Lai](https://www.grm.cuhk.edu.hk/en/profile/dyflai)), 2020 
 
 **Visiting Scholar**  
-University of California, Berkeley, 2019
+University of California, Berkeley (advised by [Prof. Dennis Baldocchi](https://ourenvironment.berkeley.edu/people/dennis-baldocchi)), 2019
 
 **Postdoctoral Researcher**  
-Seoul National University, 2022
+Seoul National University (advised by [Prof. Youngryel Ryu](https://www.environment.snu.ac.kr)), 2022
 
 **Postdoctoral Research Scientist**  
-Columbia University, 2025
+Columbia University (advised by [Prof. Pierre Gentine](https://gentinelab.eee.columbia.edu/home)), 2025
