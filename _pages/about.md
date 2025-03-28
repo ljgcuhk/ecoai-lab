@@ -25,7 +25,8 @@ Jiangong Liu is an ecosystem ecologist studying how terrestrial ecosystems inter
 ## Career
 
 **Assistant Professor (from May 2025)**  
-Carbon Neutrality and Climate Change Thrust, The Hong Kong University of Science and Technology (Guangzhou)
+Carbon Neutrality and Climate Change Thrust, 
+The Hong Kong University of Science and Technology (Guangzhou)
 
 **Ph.D. in Physical Geography**  
 The Chinese University of Hong Kong, 2020
