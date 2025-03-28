@@ -8,17 +8,18 @@ redirect_from:
 ---
 
 Jiangong Liu is an ecosystem ecologist studying how terrestrial ecosystems interact with climate change. His research integrates field measurements, big data analytics (ecological datasets and remote sensing), artificial intelligence, and ecosystem function modeling. He aims to gain mechanistic understanding regarding the future of land carbon sinks and contribute to effective solutions to climate change and enhancing human well-being.
-
+======
 
 
 ![Illustration of research](/images/illustration.png){: .align-right width="300px"}
+
+
 Research Interests
 ======
 1. Ecosystem adaptation to climate change
 1. Ecosystem response to climate extremes
 1. Nature-based climate solutions
 1. Explainable AI & causally-inferenced AI
-
 
 
 
