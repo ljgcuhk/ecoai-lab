@@ -7,6 +7,8 @@ author_profile: true
 
 <div class="publication-list" style="font-size:0.9em;">
 
+See my [Google Scholar](https://scholar.google.com/citations?user=AxwiFzkAAAAJ&hl=zh-CN) for a full list of publications.
+
 ## Preprints & In Press
 
 1. **Liu, J.**, Wang, Q., Zhan, W., Lian, X., & Gentine, P. (in press). When and where soil dryness matters to ecosystem photosynthesis. *Nature Plants*. [Preprint](https://www.researchsquare.com/article/rs-5147541/v1)  
@@ -19,7 +21,7 @@ author_profile: true
    
 5. Huang, Y., Lian, X., Skulovich, O., **Liu, J.**, Shamekh, S., & Gentine, P. (preprint). Large and increasing soil moisture impact on Western European heatwaves. [Preprint](https://doi.org/10.22541/au.173161581.17902240/v1)  
 
-## Journal Articles
+## Journal Articles (selected)
 
 6. **Liu, J.**, Ryu, Y., Luo, X., Dechant, B., Keenan, T., Gentine, P., Li, B., Li, X., Prentice, C. I., Stocker, B., & Harrison, S. (2024). Evidence for widespread thermal acclimation of canopy photosynthesis. *Nature Plants*. [10.1038/s41477-024-01846-1](https://doi.org/10.1038/s41477-024-01846-1)  
    
