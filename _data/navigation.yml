@@ -12,29 +12,11 @@ main:
     url: /research/
 
   - title: "Publication"
-    url: /paper/    
+    url: /paper/
 
   - title: "Join us"
-    url: /opportunity/    
+    url: /opportunity/
     
   - title: "CV"
     url: /files/CV_Jiangong_Liu_2025.pdf
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-  #- title: "CV"
-  #  url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
-
-## News
-## Member (later move career to here)
-## Blog
-## Teaching
-# Research
-# Publication
-# CV
-# Join us
 
